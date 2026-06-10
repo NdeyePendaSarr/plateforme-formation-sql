@@ -44,8 +44,8 @@ Ce projet consiste à :
 - schema.sql
 - insert_data.sql
 - requetes.sql
-- rapport.pdf
-- algebra_relationnelle.pdf
+- Rapport_Bases_De_Donnees_SQL_Ndeye_Penda_SARR.pdf
+
 
 ## Auteur
 

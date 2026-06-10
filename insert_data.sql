@@ -1,10 +1,6 @@
 -- ============================================================
 -- PARTIE 2 — INSERTION DES DONNÉES
 -- ============================================================
--- Ordre obligatoire : tables parents avant tables enfants
--- 1. CLASSES → 2. MODULES → 3. CLASSE_MODULE
--- 4. APPRENANTS → 5. INSCRIPTIONS → 6. NOTES
--- ============================================================
 
 
 -- ── Insertion CLASSES ────────────────────────────────────────
